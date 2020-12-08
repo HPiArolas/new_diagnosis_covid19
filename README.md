@@ -3,7 +3,7 @@
 This is the data and code repository for the project "Missing diagnoses during the COVID-19 pandemic: a year in review".
 
 - Héctor Pifarré i Arolas, Centre for Research in Health Economics, Universitat Pompeu Fabra. For questions regarding the repo, please email hector.pifarre@upf.edu.
-- Josep Vidal-Alaball, Health Promotion in Rural Areas Research Group, Gerència Territorial de la Catalunya Central,Institut Català de la Salut
+- Josep Vidal-Alaball, Health Promotion in Rural Areas Research Group, Gerència Territorial de la Catalunya Central,Institut Català de la Salut.
 - Joan Gil, Universitat de Barcelona.
 - Francesc López Seguí, Centre for Research in Health Economics, Universitat Pompeu Fabra.
 - Catia Nicodemo: Centre of Organisation, Department of Primary Economics, University of Oxford. 
