@@ -9,6 +9,8 @@ This is the data repository for the project "Missing diagnoses during the COVID-
 - Catia Nicodemo: Centre of Organisation, Department of Primary Economics, University of Oxford. 
 - Marc Sáez, Universitat de Girona.
 
+Jose Andrade, Nicolai Brachowicz, and Roger Sabater provided excellent research assistance.
+
 All code is included in the `Code` folder and data in `Data` folder, which reproduce analysis in the project.
 
 # Data
