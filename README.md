@@ -34,7 +34,6 @@ The project follows the following data structure (which should be followed for r
 - `B - Detections management.R`: identifies new diagnoses in the data.
 - `C - Detections analysis.R`: creates a panel of new diagnosis at the ICD-10 chapter level.
 - `C - Robustness subchapters.R`: creates a panel of new diagnosis at the ICD-10 sub-chapter level.
-- `C - Robustness subchapters.R`: creates a panel of new diagnosis at the ICD-10 sub-chapter level.
 - `D - Final data for plots.R`: compiles the final data for visualization.
 - `E - Visualization.R`: creates the main figure and a variety of descriptive statistics used in the article (and some extra).
 
