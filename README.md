@@ -36,6 +36,7 @@ The project follows the following data structure (which should be followed for r
 - `C - Robustness subchapters.R`: creates a panel of new diagnosis at the ICD-10 sub-chapter level.
 - `D - Final data for plots.R`: compiles the final data for visualization.
 - `E - Visualization.R`: creates the main figure and a variety of descriptive statistics used in the article (and some extra).
+- `E - Significance and confidence intervals.R`: significance tests and confidence intervals for the figures in the article.
 
 # Main data file descriptions
 - `sample_data.csv`: sample data consisting in 10,000 unique individuals with visits in 2019, and an additional 10,000 for 2020.
